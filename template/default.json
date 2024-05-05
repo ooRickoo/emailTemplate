@@ -1,0 +1,9 @@
+{
+    "tTemplateName": "Default",
+    "tTeamName": "ALL",
+    "tCC": "",
+    "tSubject": "TEST: ",
+    "tBody": "<html><body><h1>$tMsgTitle</h1><p>$tMsgBody</p></body></html>",
+    "tUpdated": 1714923688875,
+    "tParameters": { "tMsgTitle": "String", "tMsgBody": "String" }
+}
